@@ -33,7 +33,7 @@ The analysis aims to understand the relevance of variables for operations and lo
 
 ### Performance metrics
 1. Investigate the average shipping time for each location to improve customer satisfaction.
-2. Evaluate inventory turnover and defect rate to solve specific problems related to each product type.
+2. Evaluate inventory turnover and defect rate to solve unique problems related to each product type.
 
 ### Cost Analysis
 1. Identify the costliest products to produce.
