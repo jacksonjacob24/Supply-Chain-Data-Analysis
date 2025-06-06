@@ -10,19 +10,19 @@ This dataset comprises 100 unique values for a Fashion and Beauty startup, refle
 ## Variables
 Several variables affect the outcomes of this analysis:
 
-✅ **Product Type**: The type of products in the inventory, including Skin Care, Hair Care, and Cosmetics.
-✅ **Price**: The price of each product.
-✅ **Availability**: The availability of products in the inventory.
-✅ **Revenue Generated**: The revenue generated from the sales of products.
-✅ **Stock Levels**: The levels of inventory stock required for effective control of goods.
-✅ **Lead Times**: The amount of time from when a company has all necessary resources on hand to manufacture a product to when it finally completes the manufacturing process.
-✅ **Location**: The cities where products are manufactured in India, including Mumbai, Kolkata, Delhi, Bangalore, and Chennai.
-✅ **Production Volumes**: The volumes or quantity of products produced.
-✅ **Manufacturing Cost**: The cost of production for each product.
-✅ **Inspection Results**: The quality check results to verify if the product meets the required standards, including Pending, Fail, and Pass.
-✅ **Defect Rate**: The rate of defects found in the products.
-✅ **Transportation Mode**: The different means of transportation used to deliver products, including Road, Air, Sea, and Rail.
-✅ **Total Cost**: The overall cost incurred in the production and transportation of products.
+✅ **Product Type**: The type of products in the inventory, including Skin Care, Hair Care, and Cosmetics.  
+✅ **Price**: The price of each product.  
+✅ **Availability**: The availability of products in the inventory.  
+✅ **Revenue Generated**: The revenue generated from the sales of products.  
+✅ **Stock Levels**: The levels of inventory stock required for effective control of goods.  
+✅ **Lead Times**: The amount of time from when a company has all necessary resources on hand to manufacture a product to when it finally completes the manufacturing process.  
+✅ **Location**: The cities where products are manufactured in India, including Mumbai, Kolkata, Delhi, Bangalore, and Chennai.  
+✅ **Production Volumes**: The volumes or quantity of products produced.  
+✅ **Manufacturing Cost**: The cost of production for each product.  
+✅ **Inspection Results**: The quality check results to verify if the product meets the required standards, including Pending, Fail, and Pass.  
+✅ **Defect Rate**: The rate of defects found in the products.  
+✅ **Transportation Mode**: The different means of transportation used to deliver products, including Road, Air, Sea, and Rail.  
+✅ **Total Cost**: The overall cost incurred in the production and transportation of products.  
 
 ## Objectives
 The analysis aims to understand the relevance of variables for operations and logistics and demonstrate comprehension of key inventory metrics. It seeks to address the following questions:
